@@ -39,7 +39,7 @@ To regenerate the results you can run
 
 > python ./pandas_solution.py
 
-teh pandas code contains NOTE about the above point of confusion.  
+The pandas code contains NOTE about the above point of confusion.  
 
 ## Approach 2 - Using the apache beam library
 
@@ -68,4 +68,4 @@ If this isn't the approach the interviewer would have taken I'd for sure like mo
 There is no output file for this approach.  
 
 to run it you will need a local postgres docker image.
-Since this was not part of the exercise 
+Since this was not part of the exercise I'm not providing further info
