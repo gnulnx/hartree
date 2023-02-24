@@ -63,9 +63,3 @@ where the same as the pandas library.
 I feel like there might be a more 'beam' like approach, but again this my first time using the library.
 If this isn't the approach the interviewer would have taken I'd for sure like more.   
 
-## Approach 3 - Postgres (used to workout SQLTransform for apache beam)
-
-There is no output file for this approach.  
-
-to run it you will need a local postgres docker image.
-Since this was not part of the exercise I'm not providing further info
